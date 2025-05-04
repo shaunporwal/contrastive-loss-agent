@@ -1,5 +1,7 @@
+# Contrastive Learning Agent Project
 
-
+## For the initial `contrastive-demo.py`:
+- Have set up for 3 vars: age, cancer type, response
 
 ### Resources:
 
@@ -19,5 +21,3 @@ paper: https://pmc.ncbi.nlm.nih.gov/articles/PMC9363980/#SD2
 link to that data in this repo: ./data/chowell-2023-msk-impact.xlsx
 
 ##### Note: dont know if IMPACT data from #2 & #3 are the same
-
-
